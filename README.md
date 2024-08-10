@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in Information Tec
 
 - 🎯 **Aspiring Game Developer and Black Hat Hacker:** I aim to become a game developer or a black hat hacker. Although I currently know little about hacking, I'm eager to start learning and exploring this area.
 
-- 😴 **Fun Fact:** I love sleeping!
+  
 
 ## Let's Connect
 
